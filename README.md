@@ -57,13 +57,19 @@ responder("Para que servem embeddings?")
 responder("O que é o HuggingFace?")
 ```
 
-## Integrantes
+---
 
-- Larissa Carvalho Pavan
-- Beatriz Mayumi Fernandez de Oliveira
-- Thiago Alves Serra
-- Guilherme Bezerra de Carvalho
-- Samuel Freitas Ribeiro de Castro
+## Equipe
+
+| Nome | GitHub |
+|------|--------|
+| Larissa Pavan | [@lacpavan](https://github.com/lacpavan) |
+| Beatriz Mayumi | [@BiaMayumi](https://github.com/BiaMayumi) |
+| Thiago Alves Serra | [@thiagoexpressoDev](https://github.com/thiagoexpressoDev) |
+| Guilherme Carvalho | [@guilhermecarvalho173](https://github.com/guilhermecarvalho173) |
+| Samuel de Castro | — |
+
+---
 
 ## Referências
 
@@ -72,3 +78,9 @@ responder("O que é o HuggingFace?")
 - Sentence Transformers: https://www.sbert.net/
 - Modelo de embeddings: https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
 - Modelo de Question Answering em português: https://huggingface.co/pierreguillou/bert-base-cased-squad-v1.1-portuguese
+
+---
+
+## Contexto acadêmico
+
+Atividade desenvolvida para a disciplina "Fundamentos de IA" do Prof. Dr. Fábio Rezende de Souza, do curso de Inteligência Artificial da Universidade Municipal de São Caetano do Sul.
